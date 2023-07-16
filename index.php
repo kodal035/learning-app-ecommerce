@@ -89,6 +89,7 @@
         <section class="slider_area row m0">
             <div class="slider_inner">
                 <div class="camera_caption">
+                    <h3 class="wow fadeInUp animated">Abdullah-KODAL</h3>
                     <h2 class="wow fadeInUp animated">The highest quality with the cheapest price</h2>
                     <h5 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h5>
                     <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Search products!</a>
@@ -154,7 +155,7 @@
 
 
                 <div class="copy_right_area">
-                    <h4 class="copy_right">© Copyright 2019 KODAL035 Ecommerce | All Rights Reserved by Abdullah-KODAL</h4>
+                    <h3 class="copy_right">© Copyright 2019 KODAL035 Ecommerce | All Rights Reserved by Abdullah-KODAL</h3>
                 </div>
             </div>
         </footer>
